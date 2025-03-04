@@ -145,5 +145,4 @@ input {
 ✅ **Definir um `action` real** para processar login.  
 ✅ **Adicionar validação JavaScript** para experiência aprimorada.  
 
-📌 Se precisar de ajustes, me avise! 🚀😃
 
